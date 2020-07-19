@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todoApp/static/css/main.8b546833.chunk.css",
+    "main.js": "/todoApp/static/js/main.22de7103.chunk.js",
+    "main.js.map": "/todoApp/static/js/main.22de7103.chunk.js.map",
+    "runtime-main.js": "/todoApp/static/js/runtime-main.a7bb4c2a.js",
+    "runtime-main.js.map": "/todoApp/static/js/runtime-main.a7bb4c2a.js.map",
+    "static/js/2.ef5c8690.chunk.js": "/todoApp/static/js/2.ef5c8690.chunk.js",
+    "static/js/2.ef5c8690.chunk.js.map": "/todoApp/static/js/2.ef5c8690.chunk.js.map",
+    "index.html": "/todoApp/index.html",
+    "precache-manifest.b72778c424d947a2d4ec67fd66dbec3a.js": "/todoApp/precache-manifest.b72778c424d947a2d4ec67fd66dbec3a.js",
+    "service-worker.js": "/todoApp/service-worker.js",
+    "static/css/main.8b546833.chunk.css.map": "/todoApp/static/css/main.8b546833.chunk.css.map",
+    "static/js/2.ef5c8690.chunk.js.LICENSE.txt": "/todoApp/static/js/2.ef5c8690.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/todoApp/static/media/mountains.c0242722.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7bb4c2a.js",
+    "static/js/2.ef5c8690.chunk.js",
+    "static/css/main.8b546833.chunk.css",
+    "static/js/main.22de7103.chunk.js"
+  ]
+}
